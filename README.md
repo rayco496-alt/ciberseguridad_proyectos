@@ -1,10 +1,10 @@
 # Proyectos de Ciberseguridad y Criptografía - Rayco
 
-¡Bienvenido a mi repositorio! Aquí documento los proyectos y scripts que he desarrollado durante mi formación en la Licenciatura en Criptografía y mi entrenamiento autodidacta en ciberseguridad.
+Aquí documento los proyectos y scripts que he desarrollado durante mi formación en la Licenciatura en Criptografía y mi entrenamiento autodidacta en ciberseguridad.
 
 Mi enfoque principal es la automatización en entornos Linux, el análisis de vulnerabilidades y la aplicación práctica de la criptografía.
 
-##  Estructura del Repositorio
+## Estructura del Repositorio
 
 *   **Raíz:** Scripts de auditoría web y bases de datos.
 *   **`Proyectos_Anteriores/lab06`:** Herramientas de análisis de logs y simulación de firewalls.
