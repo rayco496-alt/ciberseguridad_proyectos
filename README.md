@@ -4,7 +4,7 @@
 
 Mi enfoque principal es la automatización en entornos Linux, el análisis de vulnerabilidades y la aplicación práctica de la criptografía.
 
-## 🗂️ Estructura del Repositorio
+##  Estructura del Repositorio
 
 *   **Raíz:** Scripts de auditoría web y bases de datos.
 *   **`Proyectos_Anteriores/lab06`:** Herramientas de análisis de logs y simulación de firewalls.
@@ -12,7 +12,7 @@ Mi enfoque principal es la automatización en entornos Linux, el análisis de vu
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 ### 1. Auditor de Seguridad Web y SQL Injection (Python + SQL)
 *   **Archivos:** `login_vulnerable.py`, `gestor_db.py`
