@@ -1,6 +1,4 @@
 kmt496:)
-iloveyou
-contraseña
-qwerty
+Qwerty
 
-4 password hashes cracked, 1 left
+2 password hashes cracked, 2 left
